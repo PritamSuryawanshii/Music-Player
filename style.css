@@ -426,7 +426,7 @@ body{
 
 .container .right-section .music-player .song-info img{
     width: 280px;
-    height: 220px;
+    height: 277px;
 }
 
 .container .right-section .music-player .description h3{
@@ -741,8 +741,8 @@ body{
     }
 
     .container .right-section .music-player .song-info img{
-        width: 300px;
-        height: 190px;
+        width: 200px;
+        height: 200px;
     }
 
     .container .right-section .music-player .buttons i{
